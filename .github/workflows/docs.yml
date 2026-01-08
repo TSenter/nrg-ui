@@ -1,6 +1,7 @@
 name: Build and publish docs
 
 on:
+  workflow_dispatch:
   workflow_run:
     workflows:
       - Publish Stable
