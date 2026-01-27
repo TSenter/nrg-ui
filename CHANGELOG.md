@@ -1,5 +1,57 @@
 # Changelog
 
+## Release (2026-01-25)
+
+* @nrg-ui/core 0.56.0 (minor)
+
+#### :rocket: Enhancement
+* `@nrg-ui/core`
+  * [#811](https://github.com/knoxville-utilities-board/nrg-ui/pull/811) feat(accordion): Add yield block for title ([@Trishu-Patel](https://github.com/Trishu-Patel))
+
+#### Committers: 1
+- Trishu Patel ([@Trishu-Patel](https://github.com/Trishu-Patel))
+
+## Release (2026-01-22)
+
+* @nrg-ui/core 0.55.1 (patch)
+
+#### :bug: Bug Fix
+* `@nrg-ui/core`
+  * [#809](https://github.com/knoxville-utilities-board/nrg-ui/pull/809) fix: Adjust icon margins ([@TSenter](https://github.com/TSenter))
+
+#### Committers: 1
+- Tyler Senter ([@TSenter](https://github.com/TSenter))
+
+## Release (2026-01-20)
+
+* @nrg-ui/core 0.55.0 (minor)
+
+#### :rocket: Enhancement
+* `@nrg-ui/core`
+  * [#807](https://github.com/knoxville-utilities-board/nrg-ui/pull/807) feat: Setup ember-intl in blueprint ([@TSenter](https://github.com/TSenter))
+
+#### :house: Internal
+* `@nrg-ui/core`
+  * [#805](https://github.com/knoxville-utilities-board/nrg-ui/pull/805) refactor(docs): Use new @ember-intl/vite plugin for translations ([@TSenter](https://github.com/TSenter))
+
+#### Committers: 1
+- Tyler Senter ([@TSenter](https://github.com/TSenter))
+
+## Release (2026-01-13)
+
+* @nrg-ui/core 0.54.1 (patch)
+
+#### :rocket: Enhancement
+* [#793](https://github.com/knoxville-utilities-board/nrg-ui/pull/793) feat(internal): Publish unstable version of every package ([@TSenter](https://github.com/TSenter))
+
+#### :bug: Bug Fix
+* `@nrg-ui/core`
+  * [#799](https://github.com/knoxville-utilities-board/nrg-ui/pull/799) fix(datetime): Set year, month, then date ([@DeanLongmire](https://github.com/DeanLongmire))
+
+#### Committers: 2
+- Dean Longmire ([@DeanLongmire](https://github.com/DeanLongmire))
+- Tyler Senter ([@TSenter](https://github.com/TSenter))
+
 ## Release (2026-01-08)
 
 * @nrg-ui/version 0.5.0 (minor)

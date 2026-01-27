@@ -30,9 +30,9 @@
     "@glint/core": "^1.5.2",
     "@nrg-ui/standards": "workspace:^",
     "concurrently": "^9.2.1",
-    "prettier": "^3.7.4",
+    "prettier": "^3.8.1",
     "prettier-plugin-ember-template-tag": "^2.1.2",
-    "release-plan": "^0.17.2"
+    "release-plan": "^0.17.4"
   },
   "pnpm": {
     "overrides": {
